@@ -9,6 +9,8 @@ Fragment does not currently have a code signing certificate. This means that you
 | Click cancel           | `System Preferences` -> `Security & Privacy` | Press `Open Anyway`       |
 
 
+## For Windows
+
 | ![](/doc/windows1.png) | ![](/doc/windows2.png)                       |
 |------------------------|----------------------------------------------|
 | Click `More Info`      | Click `Run Anyway`                           |
