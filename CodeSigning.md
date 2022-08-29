@@ -7,3 +7,8 @@ Fragment does not currently have a code signing certificate. This means that you
 | ![](/doc/macerror.png) | ![](/doc/settings.png)                       | ![](/doc/macoverride.png) |
 |------------------------|----------------------------------------------|---------------------------|
 | Click cancel           | `System Preferences` -> `Security & Privacy` | Press `Open Anyway`       |
+
+
+| ![](/doc/windows1.png) | ![](/doc/windows2.png)                       |
+|------------------------|----------------------------------------------|
+| Click `More Info`      | Click `Run Anyway`                           |
